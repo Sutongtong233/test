@@ -2,3 +2,5 @@
 using namespace std;
 #include<vector>
 #define haha 1
+int main(){
+}
